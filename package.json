@@ -1,0 +1,23 @@
+{
+  "name": "typescripts-deep-dive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/streetracer48/typescripts-deep-dive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/streetracer48/typescripts-deep-dive/issues"
+  },
+  "homepage": "https://github.com/streetracer48/typescripts-deep-dive#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
